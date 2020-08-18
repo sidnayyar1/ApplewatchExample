@@ -28,8 +28,8 @@
                                 <action selector="buttonPressed" destination="AgC-eL-Hgc" id="ZWL-aG-0Ah"/>
                             </connections>
                         </button>
-                        <label width="136" height="56" alignment="left" text="Label" textAlignment="left" id="gTF-4n-sbA">
-                            <fontDescription key="font" style="UICTFontTextStyleBody"/>
+                        <label width="136" height="56" alignment="left" text="Label" textAlignment="left" numberOfLines="2" id="gTF-4n-sbA">
+                            <fontDescription key="font" type="system" pointSize="12"/>
                         </label>
                         <button width="1" alignment="left" title="Next" id="BhF-VH-UDQ">
                             <connections>
